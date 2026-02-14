@@ -4,12 +4,15 @@ An ES6 tool to read, edit, and write [Pebble Draw Command](https://developer.reb
 
 Also see:
 
+  * https://hg.sr.ht/~clach04/bluetooth_svg
   * GPath
       * https://github.com/clach04/pebble_GPath.svg/
-  * https://github.com/pebble-examples/cards-example/blob/master/tools/svg2pdc.py
-  * https://github.com/pebble-dev/pebble-firmware/tree/588a44eb6d72a5eda3471586aaa9df699b255b90/tools/svg2png
-  * https://github.com/HBehrens/pdc_tool
-      * https://pdc-tool.heikobehrens.com/
+      * https://github.com/clach04/gpath-helper
+  * PDC
+      * https://github.com/pebble-examples/cards-example/blob/master/tools/svg2pdc.py
+      * https://github.com/pebble-dev/pebble-firmware/tree/588a44eb6d72a5eda3471586aaa9df699b255b90/tools/svg2png
+      * https://github.com/HBehrens/pdc_tool
+          * https://pdc-tool.heikobehrens.com/
 
 ## [Editor](https://jneubrand.github.io/pdc-js/)
 
